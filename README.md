@@ -1,4 +1,5 @@
 # 👋 Welcome to the CS² Community!
+![cs-squared5](https://github.com/user-attachments/assets/d3b65f23-5193-4e8c-ba3e-9afcde95066b)
 
 **CS² (CS-Squared)** is student-driven space at MSU dedicated to empowering learners in computer science and cybersecurity.
 
