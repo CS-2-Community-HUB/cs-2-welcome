@@ -1,4 +1,4 @@
-# 👋 Welcome to the CS² Community!
+# Welcome to the CS² Community!
 
 **CS² (CS-Squared)** is student-driven space at MSU dedicated to empowering learners in computer science and cybersecurity.
 
@@ -18,7 +18,7 @@ We believe that success in tech is not just about code—it's about connection, 
 
 ---
 
-## 🤝 How to Get Involved
+## How to Get Involved
 
 This space is co-led by MSU students, Deb Harding and Maciej Wal
 Contact Deb or Maciej at MSU Denver if you are a student or alumni and want to get involved in our discord communite.
@@ -31,10 +31,3 @@ Read and agree to the [Code of Conduct](CODE_OF_CONDUCT.md)
 ---
 
 
-
-
----
-
-## ✍️ Maintainers & Faculty Sponsors
-
-This space is co-led by students and faculty committed to equity in CS education. If you'd like to help co-lead, reach out via Discord or GitHub Issues.
